@@ -12,7 +12,7 @@ Three diagrams are used to describe the system from different perspectives: a Sy
 
 The proposed system uses a layered architecture consisting of the user layer, frontend layer, backend application layer, and data layer.
 
-![Figure 1. System Architecture Diagram](images/figure1.png)
+![Figure 1. System Architecture Diagram](figure1.png)
 
 **Figure 1. System Architecture Diagram**
 
@@ -87,7 +87,7 @@ After an ownership claim has been approved, the return process component tracks 
 
 The Use Case Diagram represents the main interactions between system actors and the proposed platform.
 
-![Figure 2. Use Case Diagram](images/figure2.png)
+![Figure 2. Use Case Diagram](figure2.png)
 
 **Figure 2. Use Case Diagram**
 
@@ -105,7 +105,7 @@ The use case model demonstrates the separation between ordinary user functionali
 
 The Entity-Relationship Diagram presents the proposed logical data structure of the system and the relationships between its main entities.
 
-![Figure 3. Entity-Relationship Diagram](images/figure3.png)
+![Figure 3. Entity-Relationship Diagram](figure3.png)
 
 **Figure 3. Entity-Relationship Diagram**
 
